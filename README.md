@@ -1,11 +1,11 @@
-# DSA-with-Cpp
-My DSA Journey in C++ | Striver's A2Z DSA Sheet | LeetCode Practice
+# DSA-in-python
+My DSA Journey in python | Striver's A2Z DSA Sheet | LeetCode Practice
 
 ## Current Progress
 
 - [x] Basics
 - [x] Basic Maths
-- [ ] Recursion
+- [x] Recursion
 - [ ] Hashing
 - [ ] Sorting
 - [ ] Arrays
@@ -26,6 +26,6 @@ My DSA Journey in C++ | Striver's A2Z DSA Sheet | LeetCode Practice
 
 ## Language
 
-- C++
+- Python(Focusing on AI/ML,Problem solving)
 
 
